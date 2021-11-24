@@ -71,6 +71,11 @@ main .features p {
     width: 400px;
     margin: 20px 34%;
     text-align: left;
+    color: white;
+    opacity: 0.8;
+    border-color: #4d4d4d;
+    background-color: #181818;
+    
 }
 
 form {
